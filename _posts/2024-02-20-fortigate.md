@@ -1,7 +1,7 @@
 ---
 title: Fortigate
-author: Gauranga
-date: 2024-02-19 11:27:22 +00:00
+# author: Gauranga
+date: 2024-02-20 11:27:22 +00:00
 categories: [Writing]
 tags: [Documentation]
 pin: true
@@ -13,8 +13,6 @@ image: https://images.ctfassets.net/aoyx73g9h2pg/2pgojF0xYbPiO90nEe6MQn/b3d29d57
 #   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-
-Table of Contents
 
 ## Table of Contents
 
